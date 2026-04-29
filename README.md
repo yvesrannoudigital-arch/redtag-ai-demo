@@ -1,2 +1,2 @@
 # redtag-ai-demo
-AI-powered vacation search demo for redtag.c
+AI-powered vacation search demo for redtag.ca
